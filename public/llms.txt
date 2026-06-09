@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://j-set-shopping-82b6e9fb.zappy5.app
+https://example.com
 List items for sale and discover unbeatable local deals on our peer-to-peer marketplace. Skip the mercari selling fee and start your own community-driven shop today!
 
 ### How It Works
-https://j-set-shopping-82b6e9fb.zappy5.app/how-it-works
+https://example.com/how-it-works
 See how simple peer-to-peer selling can be. From listing your first item to making a sale, our step-by-step guide shows you how to keep more profit with zero mercari selling fee surprises.
 
 ### Community & Trust
-https://j-set-shopping-82b6e9fb.zappy5.app/community-trust
+https://example.com/community-trust
 Experience secure community-driven commerce built on real trust. Learn how we protect every transaction so you can buy and sell confidently, leaving risky classifieds behind.
 
 ### Contact
-https://j-set-shopping-82b6e9fb.zappy5.app/contact
+https://example.com/contact
 Have questions about listing, buying, or fees? Our support team is ready to help you maximize your earnings and find exactly what you need. Reach out and let&#39;s get selling!
 
 ### Products
-https://j-set-shopping-82b6e9fb.zappy5.app/products
+https://example.com/products
 Our Products - J-SET SHOPPING
 
 ### Cart
-https://j-set-shopping-82b6e9fb.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://j-set-shopping-82b6e9fb.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://j-set-shopping-82b6e9fb.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://j-set-shopping-82b6e9fb.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://j-set-shopping-82b6e9fb.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://j-set-shopping-82b6e9fb.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - J-SET SHOPPING
 
 ### Category
-https://j-set-shopping-82b6e9fb.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - J-SET SHOPPING
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://j-set-shopping-82b6e9fb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://j-set-shopping-82b6e9fb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://j-set-shopping-82b6e9fb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -99,8 +99,8 @@ E-commerce / Marketplace
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://j-set-shopping-82b6e9fb.zappy5.app/sitemap.xml
-- Robots: https://j-set-shopping-82b6e9fb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://j-set-shopping-82b6e9fb.zappy5.app/llms-full.txt
-- Products (JSON): https://j-set-shopping-82b6e9fb.zappy5.app/products.json
-- Products (Google Merchant RSS): https://j-set-shopping-82b6e9fb.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
